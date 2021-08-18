@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Aug 07 23:53:56 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-017b-21db-732b-00000f2162b8 
+on database directory D:\Freelance-Projects\Codage Aider\Students\agbi\agbi-repo-airline\airline-reservation-system\flightdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3764951d 
+Loaded from file:/C:/Users/robin/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.1+9-18
+user.dir=D:\Freelance-Projects\Codage Aider\Students\agbi\agbi-repo-airline\airline-reservation-system
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
